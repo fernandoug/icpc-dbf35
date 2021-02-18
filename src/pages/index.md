@@ -20,7 +20,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: blue
       background_image: images/75303406_2408348392618345_3722005692207333376_o.jpg
       background_image_opacity: 20
       background_image_size: auto
