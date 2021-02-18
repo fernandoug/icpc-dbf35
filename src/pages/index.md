@@ -36,7 +36,7 @@ sections:
         align: left
         image: images/think.png
         image_alt: Feature 1 placeholder image
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /features
