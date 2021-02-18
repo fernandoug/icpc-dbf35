@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/icpc_ac_blanco.png
+    image: images/icpc_ac_color.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
