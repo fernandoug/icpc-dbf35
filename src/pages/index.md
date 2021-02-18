@@ -8,7 +8,7 @@ sections:
       y 3098 universidades, abierto a todo estudiante universitario menor de 23
       años.
     actions:
-      - label: Learn More
+      - label: Información
         url: /features
         style: primary
       - label: Contacto
