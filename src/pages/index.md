@@ -22,7 +22,7 @@ sections:
     background:
       background_color: blue
       background_image: images/75303406_2408348392618345_3722005692207333376_o.jpg
-      background_image_opacity: 20
+      background_image_opacity: 2
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
