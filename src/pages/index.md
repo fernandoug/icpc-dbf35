@@ -15,7 +15,7 @@ sections:
         url: /contacto
         style: secondary
     align: left
-    image: images/icpc_ac_blanco.png
+    image: images/icpc_logos.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
