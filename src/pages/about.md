@@ -24,15 +24,6 @@ sections:
       - src/data/team/person-jnr0en9zt.json
       - src/data/team/person-6ggkw6pdi.json
       - src/data/team/person-igsfqt7oq.json
-  - type: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
 seo:
   title: Who We Are
   description: This is the about us page
