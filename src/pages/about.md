@@ -21,7 +21,6 @@ sections:
   - type: team_section
     title: Our Team
     team:
-      - src/data/team/eleanor-carr.yaml
       - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
   - type: cta_section
