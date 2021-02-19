@@ -9,7 +9,7 @@ sections:
       años.
     actions:
       - label: Información
-        url: /features
+        url: /info
         style: primary
       - label: Contacto
         url: /contact
