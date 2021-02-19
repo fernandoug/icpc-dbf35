@@ -1,5 +1,5 @@
 ---
-title: Reglas Del Torneo
+title: Reglas del Torneo
 seo:
   title: Privacy and Terms
   description: This is the privacy and terms page
