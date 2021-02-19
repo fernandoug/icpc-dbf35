@@ -13,7 +13,7 @@ sections:
         style: primary
       - label: Contacto
         url: /contacto
-        style: primary
+        style: secondary
     align: left
     image: images/icpc_logos.png
     image_alt: Hero placeholder image
