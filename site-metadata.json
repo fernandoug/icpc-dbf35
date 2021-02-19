@@ -17,12 +17,12 @@
                 "label": "Sobre Nosotros",
                 "url": "/about",
                 "style": "link"
-            },,
+            },
             {
                 "label": "Reglas",
                 "url": "/terms",
                 "style": "link"
-            }
+            },
             {
                 "label": "Contacto",
                 "url": "/contact",
