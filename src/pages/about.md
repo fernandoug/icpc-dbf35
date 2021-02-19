@@ -21,7 +21,6 @@ sections:
   - type: team_section
     title: Our Team
     team:
-      - src/data/team/gordon-norman.yaml
       - src/data/team/person-jnr0en9zt.json
   - type: cta_section
     title: Join the Team
