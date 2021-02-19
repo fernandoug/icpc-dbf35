@@ -27,20 +27,7 @@ sections:
       background_image_repeat: repeat
   - type: features_section
     title: Think. Create. Solve.
-    features:
-      - title: Solve
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/solve.png
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+    features: []
   - type: blog_feed_section
     title: Blog
     show_recent: true
