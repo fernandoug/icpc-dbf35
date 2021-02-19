@@ -22,6 +22,7 @@ sections:
     title: Our Team
     team:
       - src/data/team/person-jnr0en9zt.json
+      - src/data/team/person-6ggkw6pdi.json
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
