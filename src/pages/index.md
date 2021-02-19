@@ -28,19 +28,6 @@ sections:
   - type: features_section
     title: Think. Create. Solve.
     features:
-      - title: Think
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/think.png
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: Create
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
