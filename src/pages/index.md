@@ -28,19 +28,6 @@ sections:
   - type: features_section
     title: Think. Create. Solve.
     features:
-      - title: Create
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/create.png
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: Solve
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
