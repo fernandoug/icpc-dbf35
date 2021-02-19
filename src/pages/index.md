@@ -12,7 +12,7 @@ sections:
         url: /info
         style: primary
       - label: Contacto
-        url: /contact
+        url: /contacto
         style: secondary
     align: left
     image: images/icpc_ac_blanco.png
