@@ -19,7 +19,7 @@ sections:
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
   - type: team_section
-    title: Our Team
+    title: Equipos
     team:
       - src/data/team/person-jnr0en9zt.json
       - src/data/team/person-6ggkw6pdi.json
