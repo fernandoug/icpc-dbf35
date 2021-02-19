@@ -22,11 +22,6 @@
                 "label": "Contacto",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Reglas",
-                "url": "/terms",
-                "style": "link"
             }
         ]
     },
