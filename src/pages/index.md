@@ -31,7 +31,10 @@ sections:
     recent_count: 3
 seo:
   title: ICPC Centroamérica
-  description: The preview of the Starter theme
+  description: >-
+    La ICPC es un concurso de programación en el mundo que incluye 111 países y
+    3098 universidades, abierto a todo estudiante universitario menor de 23
+    años.
   extra:
     - name: 'og:type'
       value: website
