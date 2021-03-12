@@ -128,36 +128,25 @@ sections:
           Considerar que todos los jueces en línea reciben los códigos y son
           compilados para Linux.
 
-
           *   C/C++
-
 
           *   Java
 
-
           *   Kotlin
-
 
           *   Python3
 
-
           La competencia oficialmente utiliza como IDE:
-
 
           *   Bloc de notas
 
-
           *   Eclipse
-
 
           *   IDEA
 
-
           *   PyCharm
 
-
           *   Vim
-
 
           Cada sede de la competencia puede tener su propio repertorio, consulte
           al director de cada sede por los editores de su sede.
