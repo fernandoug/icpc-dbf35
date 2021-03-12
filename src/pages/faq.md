@@ -215,28 +215,7 @@ sections:
           ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
           un problema?
         content: >-
-        <table>
-<thead>
-  <tr>
-    <th>Integrante</th>
-    <th>Calificación sobre 10</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Luis Alfaro</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>Pablo Peraza</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>Fernando Ugalde</td>
-    <td>9</td>
-  </tr>
-</tbody>
-</table>
+        
         align: left
         image_alt: lorem-ipsum
         image_position: left
