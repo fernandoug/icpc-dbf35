@@ -218,7 +218,7 @@ sections:
 <thead>
   <tr>
     <th>Integrante</th>
-    <th>Calificación sobre 100</th>
+    <th>Calificación sobre 1000</th>
   </tr>
 </thead>
 <tbody>
