@@ -219,7 +219,7 @@ sections:
 <thead>
   <tr>
     <th>Integrante</th>
-    <th>Calificación sobre 10</th>
+    <th>Calificación sobre 100</th>
   </tr>
 </thead>
 <tbody>
