@@ -193,7 +193,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Hay categorías de competencia?
         content: >-
           ## Lorem ipsum
 
