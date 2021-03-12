@@ -230,7 +230,7 @@ sections:
           Normalmente es porque puede realizarse de manera más eficiente.</td>
           </tr> <tr> <td>Runtime Error</td> <td>RE</td> <td>El programa finalizó
           de forma inesperada. (Se produjo una división por cero, violación de
-          segmento, etc)</td> </tr> <tr> <td>Compilation Error</td> <td>CE</td>
+          segmento, etc).</td> </tr> <tr> <td>Compilation Error</td> <td>CE</td>
           <td>El código enviado no se compiló en el lenguaje especificado.</td>
           </tr> <tr> <td>Output Limit Exceeded</td> <td>CLE</td> <td>El código
           enviado excedió el tamaño máximo de información que debiera
