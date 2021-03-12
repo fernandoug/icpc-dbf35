@@ -244,7 +244,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cómo me pongo en contacto con el Director Regional?
         content: >-
           ## Lorem ipsum
 
