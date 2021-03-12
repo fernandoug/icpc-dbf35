@@ -234,7 +234,7 @@ sections:
           <td>El código enviado no se compiló en el lenguaje especificado.</td>
           </tr> <tr> <td>Output Limit Exceeded</td> <td>CLE</td> <td>El código
           enviado excedió el tamaño máximo de información que debiera
-          mostrar</td> </tr> <tr> <td>Submission Error</td> <td>SE</td> <td>El
+          mostrar.</td> </tr> <tr> <td>Submission Error</td> <td>SE</td> <td>El
           código tiene un mayor tamaño del permitido, no se adjuntó un código
           fuente o similares.</td> </tr> <tr> <td>Restricted Function</td>
           <td>RF</td> <td>Se utilizó una función para ejecutar hilos, llamadas
