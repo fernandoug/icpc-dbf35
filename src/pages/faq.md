@@ -24,7 +24,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cuáles son los requisitos de los competidores?
         content: >-
           ## Lorem ipsum
 
