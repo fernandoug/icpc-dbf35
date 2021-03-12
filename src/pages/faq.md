@@ -194,17 +194,9 @@ sections:
         actions: []
         type: feature
       - title: ¿Hay categorías de competencia?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          La competencia no ofrece categorías, todos compiten en igualdad de
+          condiciones y por lugares en una misma clasificación.
         align: left
         image_alt: lorem-ipsum
         image_position: left
