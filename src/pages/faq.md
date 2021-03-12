@@ -214,67 +214,48 @@ sections:
       - title: >-
           ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
           un problema?
-        content: '<table>
-<thead>
-  <tr>
-    <th>Nombre</th>
-    <th>Abrev.</th>
-    <th>Significado</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Accepted</td>
-    <td>AC</td>
-    <td>El problema está correctamente resuelto</td>
-  </tr>
-  <tr>
-    <td>Presentation Error</td>
-    <td>PE</td>
-    <td>El problema está bien resuelto, pero no cumple las características de la especificación de salida.</td>
-  </tr>
-  <tr>
-    <td>Wrong Answer</td>
-    <td>WA</td>
-    <td>El programa concluyó, pero el resultado no coincide con el esperado por el problema</td>
-  </tr>
-  <tr>
-    <td>Time Limit Exceeded</td>
-    <td>TLE</td>
-    <td>El programa tiene una duración mayor que la permitida por el problema. Normalmente es porque puede realizarse de manera más eficiente</td>
-  </tr>
-  <tr>
-    <td>Memory Limit Exceeded</td>
-    <td>MLE</td>
-    <td>El programa utiliza más memoria de la que el problema permite. Normalmente es porque puede realizarse de manera más eficiente.</td>
-  </tr>
-  <tr>
-    <td>Runtime Error</td>
-    <td>RE</td>
-    <td>El programa finalizó de forma inesperada. (Se produjo una división por cero, violación de segmento, etc)</td>
-  </tr>
-  <tr>
-    <td>Compilation Error</td>
-    <td>CE</td>
-    <td>El código enviado no se compiló en el lenguaje especificado.</td>
-  </tr>
-  <tr>
-    <td>Output Limit Exceeded</td>
-    <td>CLE</td>
-    <td>El código enviado excedió el tamaño máximo de información que debiera mostrar</td>
-  </tr>
-  <tr>
-    <td>Submission Error</td>
-    <td>SE</td>
-    <td>El código tiene un mayor tamaño del permitido, no se adjuntó un código fuente o similares.</td>
-  </tr>
-  <tr>
-    <td>Restricted Function</td>
-    <td>RF</td>
-    <td>Se utilizó una función para ejecutar hilos, llamadas al sistema operativo o similares.</td>
-  </tr>
-</tbody>
-</table>'
+        content: >-
+          <table> <thead> <tr> <th>Nombre</th> <th>Abrev.</th>
+          <th>Significado</th> </tr> </thead> <tbody> <tr> <td>Accepted</td>
+          <td>AC</td> <td>El problema está correctamente resuelto</td> </tr>
+          <tr> <td>Presentation Error</td> <td>PE</td> <td>El problema está bien
+          resuelto, pero no cumple las características de la especificación de
+          salida.</td> </tr> <tr> <td>Wrong Answer</td> <td>WA</td> <td>El
+          programa concluyó, pero el resultado no coincide con el esperado por
+          el problema</td> </tr> <tr> <td>Time Limit Exceeded</td> <td>TLE</td>
+          <td>El programa tiene una duración mayor que la permitida por el
+          problema. Normalmente es porque puede realizarse de manera más
+          eficiente</td> </tr> <tr> <td>Memory Limit Exceeded</td> <td>MLE</td>
+          <td>El programa utiliza más memoria de la que el problema permite.
+          Normalmente es porque puede realizarse de manera más eficiente.</td>
+          </tr> <tr> <td>Runtime Error</td> <td>RE</td> <td>El programa finalizó
+          de forma inesperada. (Se produjo una división por cero, violación de
+          segmento, etc)</td> </tr> <tr> <td>Compilation Error</td> <td>CE</td>
+          <td>El código enviado no se compiló en el lenguaje especificado.</td>
+          </tr> <tr> <td>Output Limit Exceeded</td> <td>CLE</td> <td>El código
+          enviado excedió el tamaño máximo de información que debiera
+          mostrar</td> </tr> <tr> <td>Submission Error</td> <td>SE</td> <td>El
+          código tiene un mayor tamaño del permitido, no se adjuntó un código
+          fuente o similares.</td> </tr> <tr> <td>Restricted Function</td>
+          <td>RF</td> <td>Se utilizó una función para ejecutar hilos, llamadas
+          al sistema operativo o similares.</td> </tr> </tbody> </table>
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
         align: left
         image_alt: lorem-ipsum
         image_position: left
