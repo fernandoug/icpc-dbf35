@@ -95,26 +95,26 @@ sections:
 
           *   [HackerRank](https://www.hackerrank.com/)
 
-          *  
-          [omegaUp](https://omegaup.com/)
 
-          *   [Online
-          Judge](https://onlinejudge.org/)
+          *   [omegaUp](https://omegaup.com/)
 
-          *   [Project
-          Euler](https://projecteuler.net/)
 
-          *   [Sphere Online
-          Judge](https://www.spoj.com/)
+          *   [Online Judge](https://onlinejudge.org/)
 
-          *  
-          [Topcoder](https://www.topcoder.com/)
 
-          *   [URI Online
-          Judge](https://www.urionlinejudge.com.br/judge/en)
-          
-          *   [Virtual
-          Judge](https://vjudge.net/)
+          *   [Project Euler](https://projecteuler.net/)
+
+
+          *   [Sphere Online Judge](https://www.spoj.com/)
+
+
+          *   [Topcoder](https://www.topcoder.com/)
+
+
+          *   [URI Online Judge](https://www.urionlinejudge.com.br/judge/en)
+
+
+          *   [Virtual Judge](https://vjudge.net/)
         align: left
         image_alt: lorem-ipsum
         image_position: left
