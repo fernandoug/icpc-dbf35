@@ -7,17 +7,11 @@ sections:
   - type: features_section
     features:
       - title: ¿Cuáles son las reglas de participación?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          La participación es por equipos. Cada equipo tiene tres integrantes,
+          no más ni menos y un entrenador (el entrenador sí puede tener varios
+          equipos). Cada equipo representa a una universidad y a un país en la
+          región. Más detalles en las FAQ.
         align: left
         image_alt: lorem-ipsum
         image_position: left
