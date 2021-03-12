@@ -46,7 +46,59 @@ sections:
         actions: []
         type: feature
       - title: ¿Cómo puedo entrenar para una competencia?
-        content: "Existen diversos libros para entrenar y a la vez páginas gratuitas donde practicar.\n\nPara participar en torneos mensuales de práctica, pero de buen nivel se sugiere participar en: <https://redprogramacioncompetitiva.com/>\n\nDentro de la bibliografía que sugiere:\n\n*   Competitive Programming 3\n\n*   Competitive Programming 4\n\n*   Programming Challenges\n\n*   Programación Competitiva\n\n*   From Baylor to Baylor\_\n\n*   The Algorithm Design Manual\n\n*   Fundamentals of Algorithmics\n\nDentro de las páginas para entrenar, existen varias, se enlistan algunas aquí, pero puede buscar aquellas que más se ajusten a sus preferencias.\n\n*   [Online Judge](https://onlinejudge.org/)\n\n*   [Project Euler](https://projecteuler.net/)\n\n*   [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/)\n\n*   [AtCoder](https://atcoder.jp/)\n\n*   [Codeforces](https://atcoder.jp/)\n\n*   [CodeChef](https://www.codechef.com/)\n\n*   [omegaUp](https://omegaup.com/)\n\n*   [Topcoder](https://www.topcoder.com/)\n\n*   [HackerRank](https://www.hackerrank.com/)\n\n*   [Sphere Online Judge](https://www.spoj.com/)\n\n*   [Virtual Judge](https://vjudge.net/)\n"
+        content: >
+          Existen diversos libros para entrenar y a la vez páginas gratuitas
+          donde practicar.
+
+
+          Para participar en torneos mensuales de práctica, pero de buen nivel
+          se sugiere participar en: <https://redprogramacioncompetitiva.com/>
+
+
+          Dentro de la bibliografía que sugiere:
+
+
+          *   Competitive Programming 3
+
+
+          *   Competitive Programming 4
+
+
+          *   From Baylor to Baylor
+
+
+          *   Fundamentals of Algorithmics
+
+
+          *   Programming Challenges
+
+
+          *   Programación Competitiva
+
+
+          *   The Algorithm Design Manual
+
+
+          Dentro de las páginas para entrenar, existen varias, se enlistan
+          algunas aquí, pero puede buscar aquellas que más se ajusten a sus
+          preferencias.
+
+
+          *   [AtCoder](https://atcoder.jp/)
+
+
+          *   [CodeChef](https://www.codechef.com/)
+
+
+          *   [Codeforces](https://atcoder.jp/)*  
+          [HackerRank](https://www.hackerrank.com/)*  
+          [omegaUp](https://omegaup.com/)*   [Online
+          Judge](https://onlinejudge.org/)*   [Project
+          Euler](https://projecteuler.net/)*   [Sphere Online
+          Judge](https://www.spoj.com/)*  
+          [Topcoder](https://www.topcoder.com/)*   [URI Online
+          Judge](https://www.urionlinejudge.com.br/judge/en)*   [Virtual
+          Judge](https://vjudge.net/)
         align: left
         image_alt: lorem-ipsum
         image_position: left
