@@ -217,7 +217,7 @@ sections:
         content: >-
           <table> <thead> <tr> <th>Nombre</th> <th>Abrev.</th>
           <th>Significado</th> </tr> </thead> <tbody> <tr> <td>Accepted</td>
-          <td>AC</td> <td>El problema está correctamente resuelto</td> </tr>
+          <td>AC</td> <td>El problema está correctamente resuelto.</td> </tr>
           <tr> <td>Presentation Error</td> <td>PE</td> <td>El problema está bien
           resuelto, pero no cumple las características de la especificación de
           salida.</td> </tr> <tr> <td>Wrong Answer</td> <td>WA</td> <td>El
