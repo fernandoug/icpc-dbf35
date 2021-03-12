@@ -124,17 +124,7 @@ sections:
       - title: >-
           ¿Cuáles son los lenguajes de programación que pueden ser utilizados en
           una competencia y los IDEs permitidos?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Considerar que todos los jueces en línea reciben los códigos y son compilados para Linux.\n\n*   Java\n\n*   C/C++\n\n*   Python3\n\n*   Kotlin\n\nLa competencia oficialmente utiliza como IDE:\n\n*   Bloc de notas\n\n*   Vim\n\n*   PyCharm\n\n*   IDEA\t\n\n*   Eclipse\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left
