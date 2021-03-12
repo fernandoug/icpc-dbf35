@@ -25,17 +25,14 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuáles son los requisitos de los competidores?
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   Estar matriculados todos en el mismo centro universitario con al
+          menos 6 créditos en el momento de la competencia.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Contar con a lo sumo 23 años cumplidos el día del torneo regional
+          o menos de 10 semestres universitarios en una carrera afín a
+          ingeniería o matemática.
         align: left
         image_alt: lorem-ipsum
         image_position: left
