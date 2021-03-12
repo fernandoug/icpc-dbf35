@@ -39,17 +39,7 @@ sections:
         actions: []
         type: feature
       - title: ¿En qué consiste una fecha de competencia?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Los equipos son puestos en un mismo laboratorio donde se les da un número (entre 9 y 12) de problemas a resolver y 5 horas de tiempo para que resuelvan la mayor cantidad de problemas posibles. Pueden utilizar todo el material de apoyo que requieran mientras no sea digital.\n\n*   Se permite: Libros, notas, papeles, lapiceros, cuadernos..\n\n*   Se prohíbe: Celulares, calculadoras, relojes inteligentes, memorias USB, internet, teclados que permiten USB o memorias, etc.\_\n\nA cada equipo se le provee una sola computadora para trabajar.\n\nEl sistema de clasificación consiste primero en el número de problemas (cuantos más problemas se logren resolver, más arriba se está en la tabla) y en segundo lugar hay una penalización por tiempo (la suma de los tiempos en minutos en que se resuelven los problemas constituye la penalización, es decir, cuánto más pronto se resuelvan los problemas, más arriba se está en la tabla). Adicionalmente cada envío incorrecto, añade 20 minutos de penalización una vez resuelto el problema.\n\n*Nota: En caso de que la fecha no se pueda realizar en modalidad presencial, contactar al Director Regional para las reglas.*\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left
