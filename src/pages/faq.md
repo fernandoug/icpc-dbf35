@@ -246,7 +246,7 @@ sections:
         type: feature
       - title: ¿Cómo me pongo en contacto con el Director Regional?
         content: >
-          El contacto con el Director Regional Msc. Eddy Ramírez Jiménez se
+          El contacto con el Director Regional MSc. Eddy Ramírez Jiménez se
           puede hacer mediante Telegram al usuario @eddituss. También puede
           localizarlo al correo <icpc.acm@tec.siua.ac.cr>.
         align: left
