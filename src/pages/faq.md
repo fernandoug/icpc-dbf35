@@ -222,7 +222,7 @@ sections:
           resuelto, pero no cumple las características de la especificación de
           salida.</td> </tr> <tr> <td>Wrong Answer</td> <td>WA</td> <td>El
           programa concluyó, pero el resultado no coincide con el esperado por
-          el problema</td> </tr> <tr> <td>Time Limit Exceeded</td> <td>TLE</td>
+          el problema.</td> </tr> <tr> <td>Time Limit Exceeded</td> <td>TLE</td>
           <td>El programa tiene una duración mayor que la permitida por el
           problema. Normalmente es porque puede realizarse de manera más
           eficiente</td> </tr> <tr> <td>Memory Limit Exceeded</td> <td>MLE</td>
