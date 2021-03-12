@@ -91,7 +91,7 @@ sections:
 
 
           *   [Codeforces](https://atcoder.jp/)
-          *  [HackerRank](https://www.hackerrank.com/)*  
+          *   [HackerRank](https://www.hackerrank.com/)*  
           [omegaUp](https://omegaup.com/)*   [Online
           Judge](https://onlinejudge.org/)*   [Project
           Euler](https://projecteuler.net/)*   [Sphere Online
