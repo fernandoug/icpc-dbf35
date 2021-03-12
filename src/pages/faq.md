@@ -218,13 +218,7 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: left
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: feature
       - title: lorem-ipsum
         content: >-
