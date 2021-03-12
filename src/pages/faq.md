@@ -6,7 +6,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: lorem-ipsum
+      - title: ¿Cuáles son las reglas de participación?
         content: >-
           ## Lorem ipsum
 
