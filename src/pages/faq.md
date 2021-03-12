@@ -138,6 +138,7 @@ sections:
 
           La competencia oficialmente utiliza como IDE:
 
+
           *   Bloc de notas
 
           *   Eclipse
