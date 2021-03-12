@@ -182,7 +182,7 @@ sections:
         content: >
           La ICPC no tiene oficialmente un temario. Pero los temas tradicionales
           pueden ser vistos en este enlace:
-          <http://researchweb.iiit.ac.in/~shivam.khandelwal/ProgrammingCampSyllabus.pdf>
+          <https://researchweb.iiit.ac.in/~shivam.khandelwal/ProgrammingCampSyllabus.pdf>
 
 
           Algunos de los temas pueden no estar presente en todas las carreras de
