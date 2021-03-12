@@ -17,7 +17,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cómo se inscribe un equipo?
         content: >-
           ## Lorem ipsum
 
