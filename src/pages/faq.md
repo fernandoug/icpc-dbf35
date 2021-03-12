@@ -202,7 +202,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: 'Tengo equipo pero no entrenador, ¿qué hago?'
         content: >-
           ## Lorem ipsum
 
