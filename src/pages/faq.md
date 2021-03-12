@@ -45,7 +45,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cómo puedo entrenar para una competencia?
         content: >-
           ## Lorem ipsum
 
