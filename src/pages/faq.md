@@ -236,7 +236,7 @@ sections:
     <td>9</td>
   </tr>
 </tbody>
-</table>
+</table>'
         align: left
         image_alt: lorem-ipsum
         image_position: left
