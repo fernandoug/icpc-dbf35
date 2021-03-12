@@ -214,7 +214,7 @@ sections:
       - title: >-
           ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
           un problema?
-        content: '<table><tbody><tr><th>Col1</th><th>Col2</th><th>Col3</th><th>Numeric Column</th></tr><tr><td>Value 1</td><td>Value 2</td><td>123</td><td>10.0</td></tr><tr><td>Separate</td><td>cols</td><td>with a tab or 4 spaces</td><td>-2,027.1</td></tr><tr><td>This is a row with only one cell</td><td> </td><td> </td><td> </td></tr></tbody></table>'
+        content: 
         align: left
         image_alt: lorem-ipsum
         image_position: left
