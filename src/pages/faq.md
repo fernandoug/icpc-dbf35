@@ -206,7 +206,7 @@ sections:
           *   Kotlin
 
 
-          *   Python3
+          *   Python 3
 
 
           La competencia oficialmente utiliza como IDE:
