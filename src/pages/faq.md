@@ -214,10 +214,24 @@ sections:
       - title: >-
           ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
           un problema?
+        content: '| a1 | a2 | a3 | | ---| ---|--- | | b1 | b2 | b3 |'
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
+      - title: lorem-ipsum
         content: >-
-          | a1 | a2 | a3 |
-          | ---| ---|--- |
-          | b1 | b2 | b3 |
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
         align: left
         image_alt: lorem-ipsum
         image_position: left
