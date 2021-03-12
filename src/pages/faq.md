@@ -18,17 +18,7 @@ sections:
         actions: []
         type: feature
       - title: ¿Cómo se inscribe un equipo?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Cada participante y el entrenador se registran en <https://icpc.global/> de manera **individual**, luego el entrenador desde su cuenta hace el equipo con los correos utilizados por los participantes para su cuenta. Adicionalmente el entrenador hace una carta como la que se indica aquí,\_dando fe que los participantes cumplen los requisitos de la competencia y la envía al director regional.\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left
