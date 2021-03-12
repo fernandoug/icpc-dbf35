@@ -115,17 +115,7 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuáles son los beneficios de participar para la universidad?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Con este evento los centros universitarios pueden tener una perspectiva de cómo está la disciplina de programación en su centro y a la vez conocer cómo están sus estudiantes en relación con los de otros centros. Lo anterior contribuye a detectar áreas de mejora en la impartición de clases relacionadas con esta disciplina. Dadas las características de estos eventos, los estudiantes participantes demuestran o adquieren, o perciben la importancia de tener; los siguientes conocimientos y habilidades, entre otras:\n\n*   Solucionar problemas no triviales.\n\n*   Lectura e interpretación de los requerimientos de un problema. Implementación de las soluciones utilizando un lenguaje de programación.\_\n\n*   Detección de casos límite de prueba para validar algoritmos.\n\n*   Trabajo en equipo.\n\n*   Comprensión del idioma inglés.\n\n*   Detección y abstracción de patrones de tipos de problemas.\n\n*   Redacción y sıntesis de material de apoyo para el concurso.\n\n*   Verificación a nivel internacional del cumplimiento de los objetivos planteados en cada curso.\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left
