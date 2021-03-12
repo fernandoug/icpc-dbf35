@@ -61,17 +61,10 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuáles son los requisitos para ser entrenador?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          El entrenador no tiene ningún requisito puede estar o no ligado a la
+          universidad, tampoco tiene requisitos de edad. Cada equipo puede
+          escoger al entrenador que prefiera.
         align: left
         image_alt: lorem-ipsum
         image_position: left
