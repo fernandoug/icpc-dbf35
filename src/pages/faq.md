@@ -121,7 +121,9 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: >-
+          ¿Cuáles son los lenguajes de programación que pueden ser utilizados en
+          una competencia y los IDEs permitidos?
         content: >-
           ## Lorem ipsum
 
