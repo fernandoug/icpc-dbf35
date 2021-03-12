@@ -166,7 +166,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cuándo es buen momento para empezar a participar?
         content: >-
           ## Lorem ipsum
 
