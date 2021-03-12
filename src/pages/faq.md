@@ -225,7 +225,7 @@ sections:
           el problema.</td> </tr> <tr> <td>Time Limit Exceeded</td> <td>TLE</td>
           <td>El programa tiene una duración mayor que la permitida por el
           problema. Normalmente es porque puede realizarse de manera más
-          eficiente</td> </tr> <tr> <td>Memory Limit Exceeded</td> <td>MLE</td>
+          eficiente.</td> </tr> <tr> <td>Memory Limit Exceeded</td> <td>MLE</td>
           <td>El programa utiliza más memoria de la que el problema permite.
           Normalmente es porque puede realizarse de manera más eficiente.</td>
           </tr> <tr> <td>Runtime Error</td> <td>RE</td> <td>El programa finalizó
