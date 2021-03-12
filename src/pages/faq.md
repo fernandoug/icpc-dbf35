@@ -114,7 +114,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cuáles son los beneficios de participar para la universidad?
         content: >-
           ## Lorem ipsum
 
