@@ -90,7 +90,8 @@ sections:
           *   [CodeChef](https://www.codechef.com/)
 
 
-          *   [Codeforces](https://atcoder.jp/)*  
+          *   [Codeforces](https://atcoder.jp/)
+          *  
           [HackerRank](https://www.hackerrank.com/)*  
           [omegaUp](https://omegaup.com/)*   [Online
           Judge](https://onlinejudge.org/)*   [Project
