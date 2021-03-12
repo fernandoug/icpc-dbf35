@@ -211,16 +211,6 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: >-
-          ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
-          un problema?
-        content: >-
-        
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
-        type: feature
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
