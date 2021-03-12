@@ -178,7 +178,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cuál es el temario de los problemas?
         content: >-
           ## Lorem ipsum
 
