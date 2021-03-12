@@ -203,17 +203,9 @@ sections:
         actions: []
         type: feature
       - title: 'Tengo equipo pero no entrenador, ¿qué hago?'
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Consulte con el Director Regional, tal vez haya un entrenador que
+          tenga disponibilidad para entrenar un equipo adicional.
         align: left
         image_alt: lorem-ipsum
         image_position: left
