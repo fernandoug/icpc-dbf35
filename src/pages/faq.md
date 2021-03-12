@@ -167,17 +167,12 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuándo es buen momento para empezar a participar?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Cuando se está aprendiendo a programar, porque en Centroamérica se
+          ofrecen explicaciones tras las competencias de cómo se pueden aplicar
+          diferentes técnicas de programación para resolver cada uno de los
+          problemas, por lo que también tiene un componente de aprendizaje que
+          puede ser apreciado a lo largo de una carrera universitaria.
         align: left
         image_alt: lorem-ipsum
         image_position: left
