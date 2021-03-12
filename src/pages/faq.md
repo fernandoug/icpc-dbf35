@@ -129,16 +129,16 @@ sections:
           compilados para Linux.
 
 
-          *   Java
-
-
           *   C/C++
 
 
-          *   Python3
+          *   Java
 
 
           *   Kotlin
+
+
+          *   Python3
 
 
           La competencia oficialmente utiliza como IDE:
@@ -147,16 +147,16 @@ sections:
           *   Bloc de notas
 
 
-          *   Vim
-
-
-          *   PyCharm
+          *   Eclipse
 
 
           *   IDEA
 
 
-          *   Eclipse
+          *   PyCharm
+
+
+          *   Vim
 
 
           Cada sede de la competencia puede tener su propio repertorio, consulte
