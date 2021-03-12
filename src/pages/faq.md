@@ -179,17 +179,15 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuál es el temario de los problemas?
-        content: >-
-          ## Lorem ipsum
+        content: >
+          La ICPC no tiene oficialmente un temario. Pero los temas tradicionales
+          pueden ser vistos en este enlace:
+          <http://researchweb.iiit.ac.in/~shivam.khandelwal/ProgrammingCampSyllabus.pdf>
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Algunos de los temas pueden no estar presente en todas las carreras de
+          informática, pero son temas estándar del conjunto de universidades que
+          participan en la ICPC.
         align: left
         image_alt: lorem-ipsum
         image_position: left
