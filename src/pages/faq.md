@@ -71,17 +71,44 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuáles son los beneficios de participar para los estudiantes?
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Los estudiantes que participan en el Concurso ICPC obtienen los
+          siguientes beneficios:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Por el crecimiento que ha provocado la ICPC todas las regiones han
+          establecido procesos eliminatorios a través de concursos preliminares,
+          para determinar los asistentes al Concurso Regional. Por lo tanto, la
+          clasificación para la Final Regional debe considerarse como un logro
+          donde se conoce una forma retadora de aprender y demostrar lo
+          aprendido a lo largo de las carreras asociadas a tecnologías y la
+          posterior participación como un beneficio, ya que abre la posibilidad
+          de que el equipo clasifique para la Final Mundial. 6 La posibilidad de
+          asistir a la Final Mundial, evento al que asisten los mejores 139
+          equipos de las distintas regiones del mundo, es decir, quienes
+          obtuvieron las mejores posiciones en las competencias locales y luego
+          regionales de la programación en el año.
 
 
-          - Lorem ipsum
+          *   La Final Mundial representa una vitrina para los concursantes
+          donde compañías del ramo tecnológico están al pendiente de los
+          resultados del evento y de los participantes para realizar ofertas
+          laborales.
 
-          - dolor sit amet
+
+          *   Servir para establecer lazos y cooperación entre universidades o
+          directamente entre alumnos de las mismas.
+
+
+          *   Exhibir en su CV la participación en el evento como uno de sus
+          logros.
+
+
+          *   Al margen de la competencia per sé, también se realizan
+          campamentos de programación tanto nacional como internacionalmente, lo
+          que permite a los estudiantes conocer y darse a conocer con
+          estudiantes de otras universidades e incluso de otros países, que
+          quizás, de otro modo, habría sido imposible crear estos contactos.
         align: left
         image_alt: lorem-ipsum
         image_position: left
