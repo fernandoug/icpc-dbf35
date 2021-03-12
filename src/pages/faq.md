@@ -53,17 +53,8 @@ sections:
         actions: []
         type: feature
       - title: ¿Cuál es el costo para participar en Centroamérica?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          El costo es totalmente **gratuito**.
         align: left
         image_alt: lorem-ipsum
         image_position: left
