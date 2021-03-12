@@ -38,7 +38,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿En qué consiste una fecha de competencia?
         content: >-
           ## Lorem ipsum
 
