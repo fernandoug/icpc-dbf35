@@ -214,8 +214,7 @@ sections:
       - title: >-
           ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
           un problema?
-        content:
-        '<table>
+        content: '<table>
 <thead>
   <tr>
     <th>Integrante</th>
