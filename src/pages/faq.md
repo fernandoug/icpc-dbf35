@@ -211,7 +211,9 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: >-
+          ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
+          un problema?
         content: >-
           ## Lorem ipsum
 
