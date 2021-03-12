@@ -215,7 +215,7 @@ sections:
           ¿Qué tipos de respuestas me puede devolver un juez a la hora de enviar
           un problema?
         content: >-
-          | a1 | a2 | a3
+          | a1 | a2 | a3 |
         align: left
         image_alt: lorem-ipsum
         image_position: left
