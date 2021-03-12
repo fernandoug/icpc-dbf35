@@ -148,6 +148,7 @@ sections:
 
           *   Vim
 
+
           Cada sede de la competencia puede tener su propio repertorio, consulte
           al director de cada sede por los editores de su sede.
         align: left
