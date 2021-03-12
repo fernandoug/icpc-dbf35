@@ -60,7 +60,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cuáles son los requisitos para ser entrenador?
         content: >-
           ## Lorem ipsum
 
