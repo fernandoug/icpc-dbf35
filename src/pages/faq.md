@@ -52,7 +52,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: ¿Cuál es el costo para participar en Centroamérica?
         content: >-
           ## Lorem ipsum
 
