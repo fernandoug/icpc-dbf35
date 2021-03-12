@@ -216,6 +216,7 @@ sections:
           un problema?
         content: >-
           | a1 | a2 | a3 |
+          | 
         align: left
         image_alt: lorem-ipsum
         image_position: left
