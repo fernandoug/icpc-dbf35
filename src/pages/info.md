@@ -8,8 +8,8 @@ sections:
     type: content_section
   - title: Equipos
     content: |+
-      \<table>\<thead>
-        \<tr>
+      <table><thead>
+        <tr>
           \<th>Año\</th>
           \<th>Nombre del equipo\</th>
           \<th>Universidad\</th>
