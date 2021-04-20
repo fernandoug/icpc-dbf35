@@ -20,7 +20,7 @@
             },
             {
                 "label": "Equipos Actuales",
-                //"url": "equipos-actuales",
+                "url": "equipos-actuales",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
