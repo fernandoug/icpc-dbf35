@@ -118,7 +118,7 @@ sections:
           \<td>Guerreros de RodriGOD\</td>
           \<td>Universidad de Costa Rica\</td>
           \<td>Esteban Artavia\<br>Esteban Marín\<br>Kevin Rojas\<br>Entrenador: Rodrigo Chaves\</td>
-        \</tr>\</tbody>\</table>
+        </tr></tbody></table>
 
     type: content_section
 seo:
