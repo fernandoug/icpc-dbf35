@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Sobre la ICPC Centroamérica
     align: center
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
