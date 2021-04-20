@@ -9,7 +9,6 @@ sections:
   - type: team_section
     title: Equipos
     team:
-      - src/data/team/person-jnr0en9zt.json
       - src/data/team/person-6ggkw6pdi.json
       - src/data/team/person-igsfqt7oq.json
 seo:
