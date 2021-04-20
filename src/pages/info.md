@@ -10,7 +10,6 @@ sections:
     title: Equipos
     team:
       - src/data/team/person-6ggkw6pdi.json
-      - src/data/team/person-igsfqt7oq.json
 seo:
   title: Who We Are
   description: This is the about us page
