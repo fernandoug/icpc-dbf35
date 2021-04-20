@@ -9,7 +9,7 @@ sections:
   - title: Equipos
     content: >-
     <table><thead><tr><th>Año</th><th>Nombre del equipo</th><th>Universidad</th><th>Miembros</th></tr></thead><tbody><tr><td>2013</td><td>dirtyBit</td><td>Tecnológico de Costa Rica</td><td>Julio Andrés Vargas Ramírez<br>Jean Carlo Argüello<br>Raúl Madrigal<br>Entrenador: Francisco Torres</td></tr><tr><td>2014</td><td>Trivium</td><td>Tecnológico de Costa Rica - Cartago</td><td>Rodrigo Chaves<br>Andrés Keisuke<br>Daniel Solís<br>Entrenador: Eddy Ramírez</td></tr><tr><td>2015</td><td>SBBHKK</td><td>Tecnológico de Costa Rica - Cartago</td><td>Rodrigo Chaves<br>Pablo <br>Andrés Keisuke<br>Entrenador:<br>Eddy Ramírez</td></tr><tr><td>2016</td><td>CRIC</td><td>Tecnológico de Costa Rica - Cartago</td><td>Rodrigo Chaves<br>Entrenador:<br>Eddy Ramírez</td></tr><tr><td>2017</td><td>Duxel</td><td>Tecnológico de Costa Rica - Alajuela</td><td>Daniel Solís<br>Diego Ugalde<br>Melvin Elizondo<br>Entrenador: Eddy Ramírez</td></tr><tr><td>2018</td><td>TicoBits</td><td>Universidad de Costa Rica</td><td>Diego Ugalde<br>Melvin Elizondo<br>Rodrigo Chaves<br>Entrenador:<br>Eddy Ramírez</td></tr><tr><td>2019</td><td>ABC</td><td>Tecnológico de Costa Rica - Cartago</td><td>Juan Villacís<br>Luis José Badilla<br>Michael Pérez<br>Entrenador:<br>Byron Rojas</td></tr><tr><td>2020</td><td>Guerreros de RodriGOD</td><td>Universidad de Costa Rica</td><td>Esteban Artavia<br>Esteban Marín<br>Kevin Rojas<br>Entrenador: Rodrigo Chaves</td></tr></tbody></table>
-    type: content_section
+    type: feature
 seo:
   title: Who We Are
   description: This is the about us page
