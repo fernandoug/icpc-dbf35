@@ -93,6 +93,9 @@ sections:
           *   [Codeforces](https://atcoder.jp/)
 
 
+          *   <http://cp-algorithms.com/>
+
+
           *   [HackerRank](https://www.hackerrank.com/)
 
 
