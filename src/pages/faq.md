@@ -93,7 +93,7 @@ sections:
           *   [Codeforces](https://atcoder.jp/)
 
 
-          *  [CP-Algorithms](http://cp-algorithms.com/)
+          *  [CP-Algorithms](http://cp-algorithms.com/)*
 
 
           *   [HackerRank](https://www.hackerrank.com/)
