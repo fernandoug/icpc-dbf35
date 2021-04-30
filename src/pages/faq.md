@@ -93,7 +93,7 @@ sections:
           *   [Codeforces](https://atcoder.jp/)
 
 
-          *  [CP-Algorithms](http://cp-algorithms.com/)*
+          *   [CP-Algorithms](http://cp-algorithms.com/)\*
 
 
           *   [HackerRank](https://www.hackerrank.com/)
@@ -118,6 +118,10 @@ sections:
 
 
           *   [Virtual Judge](https://vjudge.net/)
+
+
+          \* No es un juez en línea, sino una colección de artículos sobre
+          diversos algoritmos y estructuras de datos.
         align: left
         image_alt: lorem-ipsum
         image_position: left
