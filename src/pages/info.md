@@ -19,7 +19,8 @@ sections:
       Rica - Cartago</td><td>Rodrigo Chaves<br>Pablo Espinoza<br>Andrés
       Keisuke<br><b>Entrenador:</b><br>Eddy
       Ramírez</td></tr><tr><td>2016</td><td>CRIC</td><td>Tecnológico de Costa
-      Rica - Cartago</td><td>Rodrigo Chaves<br><b>Entrenador:</b><br>Eddy
+      Rica - Cartago</td><td>Rodrigo Chaves<br>Pablo Espinoza<br>Andrés
+      Keisuke<br><b>Entrenador:</b><br>Eddy
       Ramírez</td></tr><tr><td>2017</td><td>Duxel</td><td>Tecnológico de Costa
       Rica - Alajuela</td><td>Daniel Solís<br>Diego Ugalde<br>Melvin
       Elizondo<br><b>Entrenador:</b><br>Eddy
