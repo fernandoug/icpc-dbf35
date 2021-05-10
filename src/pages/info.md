@@ -16,7 +16,7 @@ sections:
       Rica - Cartago</td><td>Rodrigo Chaves<br>Andrés Keisuke<br>Daniel
       Solís<br><b>Entrenador:</b><br>Eddy
       Ramírez</td></tr><tr><td>2015</td><td>Trivium</td><td>Tecnológico de Costa
-      Rica - Cartago</td><td>Rodrigo Chaves<br>Pablo <br>Andrés
+      Rica - Cartago</td><td>Rodrigo Chaves<br>Pablo Espinoza<br>Andrés
       Keisuke<br><b>Entrenador:</b><br>Eddy
       Ramírez</td></tr><tr><td>2016</td><td>CRIC</td><td>Tecnológico de Costa
       Rica - Cartago</td><td>Rodrigo Chaves<br><b>Entrenador:</b><br>Eddy
