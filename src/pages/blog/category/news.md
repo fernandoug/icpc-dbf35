@@ -1,5 +1,5 @@
 ---
-title: News
+title: Noticias
 sections:
   - type: hero_section
     title: All Posts In News
