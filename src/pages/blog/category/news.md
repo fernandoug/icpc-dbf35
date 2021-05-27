@@ -2,7 +2,7 @@
 title: Noticias
 sections:
   - type: hero_section
-    title: 'All Posts In '
+    title: Todas las publicaciones en Noticias
     align: center
   - type: blog_feed_section
     show_recent: false
