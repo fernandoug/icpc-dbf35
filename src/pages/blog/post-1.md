@@ -1,7 +1,8 @@
 ---
 title: Noticias del Regional 2020
 date: '2021-05-27'
-categories: []
+categories:
+  - src/data/categories/news.yaml
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
