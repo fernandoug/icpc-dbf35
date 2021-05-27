@@ -8,7 +8,7 @@ image_alt: lorem-ipsum
 excerpt: >-
   Se mantiene la fecha de la Regional para el sábado 10 de julio de 2021, pues
   hubo consenso en que no hay ninguna garantía de que postergarla nuevamente
-  pueda garantizar mejores condiciones en el futuro cercano.
+  pueda garantizar mejores condiciones en el futuro cercano...
 seo:
   title: ''
   description: ''
