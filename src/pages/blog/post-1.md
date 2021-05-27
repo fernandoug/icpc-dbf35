@@ -1,5 +1,5 @@
 ---
-title: Noticias del Regional 2020
+title: Noticias de la Regional 2020
 date: '2021-05-27'
 categories:
   - src/data/categories/news.yaml
