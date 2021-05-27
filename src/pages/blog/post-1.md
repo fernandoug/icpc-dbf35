@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Noticias del regional 2020
 date: '2021-05-27'
 categories: []
 tags: []
