@@ -15,3 +15,5 @@ seo:
 template: post
 ---
 En miras al Torneo Estudiantil de Programación 2021 organizado por la Universidad Nacional, este miércoles 2 de junio arrancará un nuevo taller de programación competitiva, el cual consistirá en sesiones de una hora y media todos los miércoles del mes a partir de las 14:00. El enlace se compartirá por este medio. Para cualquier consulta al respecto, el correo torneoei@una.cr está habilitado para ese propósito.
+
+![](/\_static/app-assets/Taller%20Programaci%C3%B3n%20Junio.png)
