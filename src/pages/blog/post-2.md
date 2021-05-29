@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Arranca Torneo Estudiantil de Programación 2021
 date: '2021-05-29'
 categories: []
 tags: []
