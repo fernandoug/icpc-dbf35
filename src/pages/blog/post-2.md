@@ -5,7 +5,12 @@ categories:
   - src/data/categories/news.yaml
 tags: []
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Por segundo año consecutivo, la Escuela de Informática de la Universidad
+  Nacional (UNA) pone en marcha el Torneo Estudiantil de Programación. Este año,
+  aparte de contar con la participación de estudiantes de la universidad
+  anfitriona, también se podrán inscribir estudiantes activos de otras
+  universidades tanto públicas como privadas del país.
 seo:
   title: ''
   description: ''
