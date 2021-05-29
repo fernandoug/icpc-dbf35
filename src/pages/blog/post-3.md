@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Nuevo taller de programación inicia en junio
 date: '2021-05-29'
 categories:
   - src/data/categories/news.yaml
