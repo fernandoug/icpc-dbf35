@@ -1,7 +1,7 @@
 ---
 title: Arranca Torneo Estudiantil de Programación 2021
 date: '2021-05-29'
-categories: [news]
+categories: []
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
