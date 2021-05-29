@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 date: '2021-05-29'
-categories:
-  - src/data/categories/category-op7kuzxj6.json
+categories: []
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
