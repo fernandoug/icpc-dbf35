@@ -1,5 +1,5 @@
 ---
-title: Nuevo taller de programación inicia en junio
+title: Nuevo Taller de Programación inicia en Junio
 date: '2021-05-29'
 categories:
   - src/data/categories/news.yaml
