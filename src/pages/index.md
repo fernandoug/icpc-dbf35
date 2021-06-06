@@ -33,7 +33,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     has_background: true
