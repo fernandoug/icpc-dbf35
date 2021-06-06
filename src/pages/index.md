@@ -28,7 +28,7 @@ sections:
   - title: ¡Toda la información para el Regional 2021!
     actions:
       - label: Click aquí
-        url: lorem-ipsum
+        url: resources/
         style: primary
         new_window: true
         no_follow: false
