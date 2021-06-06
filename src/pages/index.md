@@ -28,7 +28,7 @@ sections:
   - title: ¡Toda la información para el Regional 2021!
     actions:
       - label: Click aquí
-        url: resources/ICPC_Latam_Regional_2020_Online_v2.pdf
+        url: /resources/ICPC_Latam_Regional_2020_Online_v2.pdf
         style: primary
         new_window: true
         no_follow: false
