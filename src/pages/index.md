@@ -27,9 +27,7 @@ sections:
       background_image_repeat: no-repeat
   - title: ¡Toda la información para el Regional 2021!
     actions:
-      - label: >-
-          El documento oficial con toda la información necesaria para el
-          Regional 2021 ya está disponible.
+      - label: Click aquí
         url: lorem-ipsum
         style: primary
         new_window: true
