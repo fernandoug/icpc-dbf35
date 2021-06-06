@@ -25,16 +25,16 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: no-repeat
-  - type: blog_feed_section
-    title: Blog
-    show_recent: true
-    recent_count: 3
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
     has_background: false
     background_color: white
     type: cta_section
+  - type: blog_feed_section
+    title: Blog
+    show_recent: true
+    recent_count: 3
 seo:
   title: ICPC Centroamérica
   description: >-
