@@ -31,7 +31,7 @@ sections:
           El documento oficial con toda la información necesaria para el
           Regional 2021 ya está disponible.
         url: lorem-ipsum
-        style: primary
+        style: secondary
         new_window: true
         no_follow: false
         type: action
