@@ -25,7 +25,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: no-repeat
-  - title: lorem-ipsum
+  - title: ¡Toda la información para el Regional 2021!
     subtitle: lorem-ipsum
     actions: []
     has_background: true
