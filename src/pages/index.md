@@ -38,6 +38,9 @@ sections:
     has_background: true
     background_color: gray
     type: cta_section
+    subtitle: >-
+      El documento oficial con toda la información necesaria para el Regional
+      2021 ya está disponible.
   - type: blog_feed_section
     title: Blog
     show_recent: true
