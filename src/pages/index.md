@@ -29,7 +29,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     has_background: false
-    background_color: white
+    background_color: blue
     type: cta_section
   - type: blog_feed_section
     title: Blog
