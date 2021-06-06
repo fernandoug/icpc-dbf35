@@ -29,7 +29,13 @@ sections:
     subtitle: >-
       El documento oficial con toda la información necesaria para el Regional
       2021 ya está disponible.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: true
     background_color: gray
     type: cta_section
