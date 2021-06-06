@@ -26,7 +26,9 @@ sections:
       background_image_size: auto
       background_image_repeat: no-repeat
   - title: ¡Toda la información para el Regional 2021!
-    subtitle: lorem-ipsum
+    subtitle: >-
+      El documento oficial con toda la información necesaria para el Regional
+      2021 ya está disponible.
     actions: []
     has_background: true
     background_color: gray
