@@ -8,6 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+
 *   [Fecha 1 2021](/equipos/2021-1)
 
 *   [Fecha 2 2021](/equipos/2021-2)
