@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-En este índice se encuentran los enlaces a la tabla de resultados de cada una de las fechas 
+En este índice se encuentran los enlaces a la tabla de resultados de cada una de las fechas llevadas a cabo en el 2021.
 *   [Fecha 1 2021](/equipos/2021-1)
 
 *   [Fecha 2 2021](/equipos/2021-2)
