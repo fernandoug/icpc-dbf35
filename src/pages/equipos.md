@@ -8,9 +8,12 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+*   [Fecha 1 2021](https://icpc.tec.siua.ac.cr/equipos/2021-1)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   Fecha 2 2021
 
-- Lorem ipsum
-- dolor sit amet
+*   Fecha 3 2021
+
+*   Fecha 4 2021
+
+*   Fecha 5 2021
