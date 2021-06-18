@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-En este directorio se encuentra el enlace a la tabla de resultados de cada una de las fechas llevadas a cabo en el actual año 202
+En este directorio se encuentra el enlace a la tabla de resultados de cada una de las fechas llevadas a cabo en el actual año 2021:
 
 *   [Competencia 02 RPC 2021](/equipos/2021-2)
 
