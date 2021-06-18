@@ -14,7 +14,7 @@ En este directorio se encuentra el enlace a la tabla de resultados de cada una d
 
 *   [Competencia 27/3/21](/equipos/2021-3)
 
-*   [Competencia 6/3/21](/equipos/2021-4)
+*   [Competencia 17/4/21](/equipos/2021-4)
 
 *   [Competencia 6/3/21](/equipos/2021-5)
 
