@@ -10,7 +10,7 @@ template: page
 ---
 En este directorio se encuentra el enlace a la tabla de resultados de cada una de las fechas llevadas a cabo en el actual año 202
 
-*   [Fecha 2 2021](/equipos/2021-2)
+*   [Competencia 02 RPC 2021](/equipos/2021-2)
 
 *   [Fecha 3 2021](/equipos/2021-3)
 
