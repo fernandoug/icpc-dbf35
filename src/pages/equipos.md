@@ -12,10 +12,10 @@ En este directorio se encuentra el enlace a la tabla de resultados de cada una d
 
 *   [Competencia 6/3/21](/equipos/2021-2)
 
-*   [Fecha 3 2021](/equipos/2021-3)
+*   [Competencia 27/3/21](/equipos/2021-3)
 
-*   [Fecha 4 2021](/equipos/2021-4)
+*   [Competencia 6/3/21](/equipos/2021-4)
 
-*   [Fecha 5 2021](/equipos/2021-5)
+*   [Competencia 6/3/21](/equipos/2021-5)
 
-*   [Fecha 6 2021](/equipos/2021-6)
+*   [Competencia 6/3/21](/equipos/2021-6)
