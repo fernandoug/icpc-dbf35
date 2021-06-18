@@ -17,3 +17,5 @@ En este directorio se encuentra el enlace a la tabla de resultados de cada una d
 *   [Fecha 4 2021](/equipos/2021-4)
 
 *   [Fecha 5 2021](/equipos/2021-5)
+
+*   [Fecha 6 2021](/equipos/2021-6)
