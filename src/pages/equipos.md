@@ -18,4 +18,4 @@ En este directorio se encuentra el enlace a la tabla de resultados de cada una d
 
 *   [Competencia 22/5/21](/equipos/2021-5)
 
-*   [Competencia 6/3/21](/equipos/2021-6)
+*   [Competencia 12/6/21](/equipos/2021-6)
