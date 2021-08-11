@@ -33,7 +33,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-    has_background: true
+    has_background: false
     background_color: gray
     type: cta_section
     subtitle: >-
