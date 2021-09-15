@@ -25,20 +25,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: no-repeat
-  - title: ¡Toda la información para el Regional 2021!
-    actions:
-      - label: Click aquí
-        url: ../resources/ICPC_Latam_Regional_2020_Online_v2.pdf
-        style: primary
-        new_window: true
-        no_follow: false
-        type: action
-    has_background: true
-    background_color: gray
-    type: cta_section
-    subtitle: >-
-      El documento oficial con toda la información necesaria para el Regional
-      2021 ya está disponible.
   - type: blog_feed_section
     title: Blog
     show_recent: true
