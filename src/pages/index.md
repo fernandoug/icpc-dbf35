@@ -27,7 +27,7 @@ sections:
       background_image_repeat: no-repeat
   - type: blog_feed_section
     title: Blog
-    show_recent: false
+    show_recent: true
     recent_count: 3
 seo:
   title: ICPC Centroamérica
